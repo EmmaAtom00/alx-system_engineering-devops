@@ -17,4 +17,3 @@ cd /boot
 # List files in the /boot directory
 echo "/boot Directory:"
 ls -la
-
